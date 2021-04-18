@@ -1,0 +1,1 @@
+This section is created to add all scripts which are pertaining to the Python library Volatility and it can help during a Forensics assessment.

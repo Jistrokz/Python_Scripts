@@ -1,0 +1,1 @@
+This section is created to add all Trojan and anti-virus detection scripts which can help during a pentest.

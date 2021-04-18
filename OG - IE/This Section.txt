@@ -1,0 +1,1 @@
+This section is created to add all scripts pertaining to Internet Explorer. Windows COM automation serves a number of uses. All versions of Windows post XP allow us to embed an IE COM.
